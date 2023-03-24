@@ -1,1 +1,7 @@
 *.zip
+GTSRB_subset_2/
+*.pdf
+*.ipynb
+*.dat
+*.png
+*.jpg
